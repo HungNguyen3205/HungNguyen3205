@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hung%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
-
+<p align="center"><img src="avatar.png" width="120" style="border-radius:50%" /></p>
 <!-- INTRO SECTION -->
 <div align="center">
   <h1>Hi there, I'm Nguyen Nam Hung 👋</h1>
