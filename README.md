@@ -108,13 +108,13 @@ motto: "Solve real problems."</code>
 <!-- CONTACT SECTION -->
 <h3 align="center">📬 Connect with Me</h3>
 <p align="center">
-  <a href="mailto:[yourmail@gmail.com]">
+  <a href="mailto:namhung03022005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/[your-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://[your-portfolio.com]">
+  <a href="https://hungnguyen3205.github.io/My_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
