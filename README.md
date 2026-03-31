@@ -3,7 +3,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hung%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
-<p align="center"><img src="avata.jpg" width="120" style="border-radius:50%" /></p>
+<!-- AVATAR UPGRADE -->
+<p align="center">
+  <img src="avata.jpg" 
+       width="220" 
+       style="border-radius: 50%; 
+              border: 6px solid rgba(36, 59, 85, 0.5);
+              box-shadow: 0 0 30px rgba(0, 150, 255, 0.3);
+              padding: 5px;" 
+  />
+</p>
 <!-- INTRO SECTION -->
 <div align="center">
   <h1>Hi there, I'm Nguyen Nam Hung 👋</h1>
