@@ -1,6 +1,4 @@
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Automation;Blockchain+Builder)
-<h1 align="center">Hi 👋, I'm Nam Hung</h1>
-<h3 align="center">Fullstack Developer | AI Automation | Blockchain</h3>
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hung%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn" />
@@ -8,7 +6,7 @@
 
 <!-- INTRO SECTION -->
 <div align="center">
-  <h1>Hi there, I'm Hung Nguyen 👋</h1>
+  <h1>Hi there, I'm Nguyen Nam Hung 👋</h1>
   <p>🚀 <b>Builder | Fullstack Developer | AI Automation Enthusiast</b></p>
   
   <p>
