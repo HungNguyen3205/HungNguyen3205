@@ -10,7 +10,7 @@
   <h1>Hi there, I'm Nguyen Nam Hung 👋</h1>
   <p>🚀 <b>Builder | Fullstack Developer | AI Automation Enthusiast</b></p>
 
-  <!-- PORTFOLIO BUTTON (MOVED TO TOP) -->
+  <!-- PORTFOLIO BUTTON -->
   <a href="https://hungnguyen3205.github.io/My_Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Live%20Portfolio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
   </a>
@@ -66,9 +66,11 @@ motto: "Solve real problems."</code>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <br>
   <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -88,8 +90,9 @@ motto: "Solve real problems."</code>
 
 | Project | Key Tech | Description |
 | :--- | :--- | :--- |
-| **🛒 Grocery Management** | Java, MS Access | A full-scale inventory system with CRUD & reporting. |
+| **🚗 Car Rental Platform** | Laravel, Vue.js, MySQL | A modern car rental system with seamless user experience, booking management, and responsive UI. |
 | **🤖 AI Content Workflow** | n8n, OpenAI, API | Automated content generation & distribution system. |
+| **🛒 Grocery Management** | Java, MS Access | A full-scale inventory system with CRUD & reporting. |
 | **🔗 Web3 Portfolio** | Solidity, React | *(In Progress)* Blockchain interaction & DeFi Dashboard. |
 
 </div>
