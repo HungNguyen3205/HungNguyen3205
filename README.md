@@ -1,121 +1,121 @@
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Automation;Blockchain+Builder&font=Fira+Code&width=450&height=30)
-
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hung%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
-
-<!-- INTRO & MAIN CTA SECTION -->
 <div align="center">
-  <h1>Hi there, I'm Nguyen Nam Hung 👋</h1>
-  <p>🚀 <b>Builder | Fullstack Developer | AI Automation Enthusiast</b></p>
-
-  <!-- PORTFOLIO BUTTON -->
-  <a href="https://hungnguyen3205.github.io/My_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Live%20Portfolio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
-  </a>
-  
-  <br><br>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-AI%20Automation-FFD700?style=flat-square&logo=openai&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-Fullstack%20Web-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Focus-Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  </p>
-
-  <p align="center">
-    <i>"Building scalable solutions through code and automation."</i>
-  </p>
+  <p><strong>HUNGNGUYEN3205 / DIGITAL SHOWCASE</strong></p>
+  <h1>Nguyễn Nam Hùng</h1>
+  <p><strong>Fullstack Developer · AI &amp; Automation · Creative Web</strong></p>
+  <p><em>Những dòng code, những dấu ấn.</em></p>
+  <a href="https://hungnguyen3205.github.io/My_Portfolio/"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/avatar3d/base_scene.webp" width="720" alt="Nhân vật 3D của Hùng tại bàn làm việc. Mở portfolio tương tác." /></a>
+  <p><a href="https://hungnguyen3205.github.io/My_Portfolio/"><strong>▶ Vào triển lãm</strong></a> · <a href="https://hungnguyen3205.github.io/My_Portfolio/#reel">Xem showreel</a> · <a href="mailto:namhung03022005@gmail.com">Liên hệ</a></p>
+  <p><sub>17 DỰ ÁN TRONG TRIỂN LÃM  /  3 DỰ ÁN THỬ NGHIỆM</sub></p>
 </div>
 
-<hr />
+---
 
-<!-- IDENTITY & CURRENT FOCUS GRID -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧬 Identity</h3>
-      <div align="center">
-        <img src="avata.jpg" width="140" style="border-radius: 50%; border: 4px solid #243B55; box-shadow: 0 0 20px rgba(0, 150, 255, 0.2);" />
-      </div>
-      <pre align="left">
-<code>name:  Hung Nguyen
-role:  Fullstack Dev (Builder)
-vibe:  Learn fast, Build faster
-motto: "Solve real problems."</code>
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 What I'm Doing</h3>
-      <br>
-      <ul>
-        <li>⚙️ Architecting <b>AI Workflows</b> (n8n + LLMs)</li>
-        <li>🌐 Developing modern <b>Web Apps</b> (MERN / Stack mới)</li>
-        <li>🔗 Researching <b>Web3 & Smart Contracts</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 01 / Spotlight
 
-<hr />
+### 01 · DANAVA Work
 
-<!-- TECH STACK -->
-<h3 align="center">🛠️ My Tech Toolbox</h3>
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <br>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <!-- Tools & Automation -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+[<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-poster.jpg" alt="Giao diện DANAVA Work" width="640" />](https://workspace.danava.com.vn)
 
-<hr />
+Không gian làm việc chung: theo dõi công việc, thành viên và tiến độ trong cùng một hệ thống.
 
-<!-- PROJECTS SECTION -->
-<h3 align="center">🚀 Featured Projects</h3>
+- Bảng Kanban, danh sách và lịch trên cùng một nguồn dữ liệu
+- Phân quyền theo từng Board
 
-<div align="center">
+[Trải nghiệm](https://workspace.danava.com.vn) · [Xem video demo](https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-demo.mp4)
 
-| Project | Key Tech | Description |
+<sub>React · TypeScript · Laravel · PWA</sub>
+
+### 02 · DANAVA Go
+
+[<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/go.webp" alt="Giao diện DANAVA Go" width="640" />](https://danavago.com)
+
+Website đặt vé đa nhà xe, biến việc mua vé thành khởi đầu của một chuyến đi.
+
+- Tìm chuyến → chọn ghế → nhận vé điện tử
+- App riêng cho từng nhà xe theo thương hiệu
+
+[Trải nghiệm](https://danavago.com)
+
+<sub>React 19 · TypeScript · Framer Motion · Laravel 13</sub>
+
+### 03 · GLG — Cà phê 3D
+
+[<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/glg.webp" alt="Giao diện GLG — Cà phê 3D" width="640" />](https://glg.danava.com.vn/cafe/)
+
+Quán cà phê dựng bằng mô hình 3D: lướt chuột để quán tự lắp từ vỏ, quầy bar đến khi hoàn chỉnh — đi kèm trang quản trị cho từng mô hình kinh doanh.
+
+- Dựng quán 3D theo 5 bước khi cuộn, đổi góc nhìn và ánh sáng
+- Chuyển cảnh liền mạch giữa các trang bằng View Transition API
+
+[Trải nghiệm](https://glg.danava.com.vn/cafe/) · [Mã nguồn](https://github.com/HungNguyen3205/GLG)
+
+<sub>Three.js · HTML · CSS · JavaScript · cPanel</sub>
+
+### 04 · Bước Chạy Nhịp Sống
+
+[<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/run.webp" alt="Giao diện Bước Chạy Nhịp Sống" width="640" />](https://buoc-chay-nhip-song.vercel.app/)
+
+Trang đăng ký cho giải chạy marathon tại Đà Nẵng — mở đầu bằng minh họa cầu Rồng.
+
+- Màn mở đầu minh họa theo chủ đề thành phố
+- Thông tin sự kiện rõ ràng trên mọi màn hình
+
+[Trải nghiệm](https://buoc-chay-nhip-song.vercel.app/) · [Mã nguồn](https://github.com/HungNguyen3205/BUOC-NHAY-NHIP-SONG)
+
+<sub>HTML · CSS · JavaScript · Vercel</sub>
+
+### 05 · DANAVA AI Coach
+
+Đếm hít đất qua camera bằng máy trạng thái chuyển động — chỉ tính khi làm đúng và đủ.
+
+- Tính góc Vai – Khuỷu – Cổ tay theo thời gian thực
+- Lọc nhiễu bằng EMA và vùng trễ hysteresis
+
+[Mã nguồn](https://github.com/HungNguyen3205/CAMERA_PhanTichTuThe)
+
+<sub>JavaScript · MediaPipe · WebRTC</sub>
+
+---
+
+## 02 / Toàn bộ dự án
+
+| Dự án | Hạng mục | Khám phá |
 | :--- | :--- | :--- |
-| **🚗 Car Rental Platform** | Laravel, Vue.js, MySQL | A modern car rental system with seamless user experience, booking management, and responsive UI. |
-| **🤖 AI Content Workflow** | n8n, OpenAI, API | Automated content generation & distribution system. |
-| **🛒 Grocery Management** | Java, MS Access | A full-scale inventory system with CRUD & reporting. |
-| **🔗 Web3 Portfolio** | Solidity, React | *(In Progress)* Blockchain interaction & DeFi Dashboard. |
+| **GLG — Cà phê 3D** | Website + trang quản trị · Three.js | [Trải nghiệm](https://glg.danava.com.vn/cafe/) · [Mã nguồn](https://github.com/HungNguyen3205/GLG) |
+| **Omachi — Concept Website** | Website bán hàng · React | [Mã nguồn](https://github.com/HungNguyen3205/Web_omachi) |
+| **Giá Vàng Today** | Ứng dụng Next.js · Đang phát triển | [Mã nguồn](https://github.com/HungNguyen3205/GiaVangToday) |
+| **Car Rental — Midnight Luxury** | Ứng dụng thuê xe · AI | [Mã nguồn](https://github.com/HungNguyen3205/Car_Rental_Website) |
+| **DANAVA Go** | Nền tảng đặt vé xe khách | [Trải nghiệm](https://danavago.com) |
+| **DANAVA — Website thương hiệu** | Website doanh nghiệp | [Mã nguồn](https://github.com/HungNguyen3205/DANAVA.COM.VN) |
+| **Touch Art — Slow Garden** | Website song ngữ Việt – Anh | [Mã nguồn](https://github.com/HungNguyen3205/LandingPage_TouchArt) |
+| **Landing Page Bất Động Sản** | Landing page bất động sản | [Trải nghiệm](https://landing-page-bds-psi.vercel.app) · [Mã nguồn](https://github.com/HungNguyen3205/LandingPage_BDS) |
+| **Như Quỳnh — Portfolio** | Portfolio thiết kế đồ họa | [Trải nghiệm](https://phamvunhuquynh.vercel.app) · [Mã nguồn](https://github.com/HungNguyen3205/Portfolio_PhamVuNhuQuynh) |
+| **Bước Chạy Nhịp Sống** | Landing page sự kiện | [Trải nghiệm](https://buoc-chay-nhip-song.vercel.app/) · [Mã nguồn](https://github.com/HungNguyen3205/BUOC-NHAY-NHIP-SONG) |
+| **Wellosophy** | Landing page sản phẩm | [Trải nghiệm](https://wellosophy.danava.com.vn) · [Mã nguồn](https://github.com/HungNguyen3205/LandingPage_Wellosophy) |
+| **DANAVA Work** | Ứng dụng quản lý công việc | [Trải nghiệm](https://workspace.danava.com.vn) |
+| **VIF — VisionFit Assistant** | Trợ lý AI tập luyện · Demo | [Mã nguồn](https://github.com/HungNguyen3205/Chatbox_AI) |
+| **DANAVA Video Studio** | Tự động dựng video · AI | [Mã nguồn](https://github.com/HungNguyen3205/Edit-Video-Automation) |
+| **News Reading Tracker** | Chrome Extension · Dashboard | [Mã nguồn](https://github.com/HungNguyen3205/DEMO_ExtensionReadingNews) · [Video](https://youtu.be/XWSmBlwre5w) |
+| **TOOL MKT — AI Content** | Công cụ marketing AI · MVP | [Mã nguồn](https://github.com/HungNguyen3205/TOOL-MKT) |
+| **DANAVA AI Coach** | Thị giác máy tính · AI | [Mã nguồn](https://github.com/HungNguyen3205/CAMERA_PhanTichTuThe) |
 
+### Phòng thử nghiệm
+
+- [Math Game](https://math-game-vert-psi.vercel.app) — Trò chơi tính nhẩm trên web.
+- [Haibazo Book](https://haibazo-book.vercel.app) — Website sách triển khai trên Vercel.
+- [Hospital Management](https://github.com/HungNguyen3205/FE_Hospital_Management) — Hệ thống quản lý bệnh viện với frontend và backend.
+
+---
+
+## 03 / Công nghệ qua từng sản phẩm
+
+| Mảng | Công nghệ | Trong portfolio |
+| :--- | :--- | :--- |
+| Giao diện & chuyển động | React, Next.js, Vue, TypeScript, Three.js, GSAP | GLG Cà phê 3D, DANAVA Go, website DANAVA |
+| Backend & dữ liệu | Laravel, Node.js, FastAPI, SQLite, MySQL | DANAVA Work, Car Rental, VisionFit Assistant |
+| AI & tự động hóa | MediaPipe, OpenAI API, Ollama, FFmpeg | DANAVA AI Coach, Video Studio, TOOL MKT |
+
+<div align="center">
+  <p><strong>Dấu ấn tiếp theo, cùng bạn.</strong></p>
+  <p><a href="https://hungnguyen3205.github.io/My_Portfolio/#story">Câu chuyện của Hùng</a> · <a href="https://hungnguyen3205.github.io/My_Portfolio/#archive">Triển lãm tương tác</a> · <a href="mailto:namhung03022005@gmail.com">namhung03022005@gmail.com</a></p>
 </div>
-
-<hr />
-
-<!-- STATS SECTION -->
-<h3 align="center">📊 GitHub Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HungNguyen3205&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<hr />
-
-<!-- CONTACT SECTION -->
-<h3 align="center">📬 Connect with Me</h3>
-<p align="center">
-  <a href="mailto:namhung03022005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=40&section=footer" width="100%" />
-</p>
