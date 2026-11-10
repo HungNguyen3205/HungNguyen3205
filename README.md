@@ -3,29 +3,67 @@
   <h1>Nguyễn Nam Hùng</h1>
   <p><strong>Fullstack Developer · AI &amp; Automation · Creative Web</strong></p>
   <p><em>Những dòng code, những dấu ấn.</em></p>
-  <a href="https://hungnguyen3205.github.io/My_Portfolio/"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/avatar3d/base_scene.webp" width="720" alt="Nhân vật 3D của Hùng tại bàn làm việc. Mở portfolio tương tác." /></a>
+  <a href="https://hungnguyen3205.github.io/My_Portfolio/"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/hero-frames/120.webp" width="520" alt="Nhân vật 3D của Hùng tại bàn làm việc. Mở portfolio tương tác." /></a>
   <p><a href="https://hungnguyen3205.github.io/My_Portfolio/"><strong>▶ Vào triển lãm</strong></a> · <a href="https://hungnguyen3205.github.io/My_Portfolio/#reel">Xem showreel</a> · <a href="mailto:namhung03022005@gmail.com">Liên hệ</a></p>
   <p><sub>17 DỰ ÁN TRONG TRIỂN LÃM  /  3 DỰ ÁN THỬ NGHIỆM</sub></p>
 </div>
 
 ---
 
-## 01 / Spotlight
+## 01 / Phòng chiếu
 
-### 01 · DANAVA Work
+<div align="center">
+<sub>01 / COVER STORY · PRODUCTIVITY</sub>
+<h3>DANAVA Work</h3>
+<a href="https://workspace.danava.com.vn"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-poster.jpg" width="760" alt="Giao diện quản lý công việc DANAVA Work" /></a>
+<p>Một nguồn dữ liệu cho ba góc nhìn công việc — Kanban, danh sách và lịch.</p>
+<p><a href="https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-demo.mp4"><strong>▶ Xem video demo</strong></a> · <a href="https://workspace.danava.com.vn">Mở sản phẩm ↗</a></p>
+</div>
 
-[<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-poster.jpg" alt="Giao diện DANAVA Work" width="640" />](https://workspace.danava.com.vn)
+## 02 / Bốn khung hình, bốn trải nghiệm
 
-Không gian làm việc chung: theo dõi công việc, thành viên và tiến độ trong cùng một hệ thống.
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>02 / MOBILITY</sub>
+<h3>DANAVA Go</h3>
+<a href="https://danavago.com"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/go.webp" width="380" alt="Giao diện DANAVA Go" /></a>
+<p>Từ tìm chuyến, chọn ghế đến nhận vé điện tử trong một luồng đặt vé.</p>
+<a href="https://danavago.com"><strong>Khám phá ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<sub>03 / CREATIVE WEB</sub>
+<h3>GLG Cà phê 3D</h3>
+<a href="https://glg.danava.com.vn/cafe/"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/glg.webp" width="380" alt="Giao diện GLG Cà phê 3D" /></a>
+<p>Cuộn để quán cà phê tự lắp ráp qua từng cảnh Three.js.</p>
+<a href="https://glg.danava.com.vn/cafe/"><strong>Khám phá ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>04 / EVENT EXPERIENCE</sub>
+<h3>Bước Chạy Nhịp Sống</h3>
+<a href="https://buoc-chay-nhip-song.vercel.app/"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/run.webp" width="380" alt="Giao diện Bước Chạy Nhịp Sống" /></a>
+<p>Trang đăng ký giải chạy mở đầu bằng minh họa cầu Rồng Đà Nẵng.</p>
+<a href="https://buoc-chay-nhip-song.vercel.app/"><strong>Khám phá ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<sub>05 / APPLIED AI</sub>
+<h3>VisionFit Assistant</h3>
+<a href="https://github.com/HungNguyen3205/Chatbox_AI"><img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/vif.webp" width="380" alt="Giao diện VisionFit Assistant" /></a>
+<p>Trợ lý tập luyện tiếng Việt tích hợp với hệ thống VisionFit.</p>
+<a href="https://github.com/HungNguyen3205/Chatbox_AI"><strong>Khám phá ↗</strong></a>
+</td>
+</tr>
+</table>
 
-- Bảng Kanban, danh sách và lịch trên cùng một nguồn dữ liệu
-- Phân quyền theo từng Board
+> **Góc kỹ thuật · DANAVA AI Coach**
+>
+> Camera theo dõi góc khớp theo thời gian thực. Bộ lọc EMA và máy trạng thái giúp nhận biết từng lần hít đất. [Xem mã nguồn ↗](https://github.com/HungNguyen3205/CAMERA_PhanTichTuThe)
 
-[Trải nghiệm](https://workspace.danava.com.vn) · [Xem video demo](https://hungnguyen3205.github.io/My_Portfolio/assets/danava-work-demo.mp4)
+---
 
-<sub>React · TypeScript · Laravel · PWA</sub>
-
-### 02 · DANAVA Go
+## 02 · DANAVA Go
 
 [<img src="https://hungnguyen3205.github.io/My_Portfolio/assets/shots/go.webp" alt="Giao diện DANAVA Go" width="640" />](https://danavago.com)
 
@@ -77,7 +115,11 @@ Trang đăng ký cho giải chạy marathon tại Đà Nẵng — mở đầu b�
 
 ---
 
-## 02 / Toàn bộ dự án
+## 03 / Kho triển lãm
+
+<details>
+<summary><strong>Mở danh mục 17 dự án + 3 thử nghiệm ↗</strong></summary>
+
 
 | Dự án | Hạng mục | Khám phá |
 | :--- | :--- | :--- |
@@ -105,9 +147,11 @@ Trang đăng ký cho giải chạy marathon tại Đà Nẵng — mở đầu b�
 - [Haibazo Book](https://haibazo-book.vercel.app) — Website sách triển khai trên Vercel.
 - [Hospital Management](https://github.com/HungNguyen3205/FE_Hospital_Management) — Hệ thống quản lý bệnh viện với frontend và backend.
 
+</details>
+
 ---
 
-## 03 / Công nghệ qua từng sản phẩm
+## 04 / Công nghệ qua từng sản phẩm
 
 | Mảng | Công nghệ | Trong portfolio |
 | :--- | :--- | :--- |
