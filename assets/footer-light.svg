@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Built with code. Made with feeling. © 2026 Nguyễn Nam Hùng"><title>Built with code. Made with feeling. © 2026 Nguyễn Nam Hùng</title><style>
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pulse{animation:pulse 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+</style><line x1="0" y1="1" x2="1200" y2="1" stroke="rgba(25,29,35,.16)"/><text x="0" y="44" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="800" fill="#191d23">HÙNG<tspan fill="#8a4f82" font-size="11" dy="-7">®</tspan></text><text x="600" y="44" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="17" fill="#7b919c">Built with code. Made with feeling.</text><text x="1200" y="44" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" fill="#57707a" letter-spacing="1">© 2026 NGUYỄN NAM HÙNG</text></svg>

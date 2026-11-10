@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="02 — Progress, through products: Counted from the work itself."><title>02 — Progress, through products: Counted from the work itself.</title><style>
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pulse{animation:pulse 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.ln{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:ln 1.6s .3s cubic-bezier(.6,0,.2,1) forwards}@keyframes ln{to{transform:scaleX(1)}}</style><text x="0" y="96" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="96" font-weight="800" fill="none" stroke="#7b919c" stroke-opacity=".45" letter-spacing="-2">02</text><g class="up"><text x="140" y="54" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8a4f82" letter-spacing="3">CHAPTER 02 — PROGRESS, THROUGH PRODUCTS</text><text x="138" y="100" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="40" fill="#191d23">Counted from the work itself.</text></g><rect class="ln" x="0" y="133.5" width="1200" height="1" fill="#7b919c" fill-opacity=".35"/><circle cx="1196" cy="134" r="4" fill="#8a4f82" class="pulse"/></svg>
